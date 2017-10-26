@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         etFName = (EditText) findViewById(R.id.editText3);
         btnSubmit = (Button) findViewById(R.id.btnSubmit);
         btnSubmit.setOnClickListener(this);
+        System.out.print("h");
         }
     @Override
     public void onClick(View v) {
@@ -25,4 +26,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         intent.putExtra("fname", etFName.getText().toString());
         startActivity(intent);
     }
+
 }
