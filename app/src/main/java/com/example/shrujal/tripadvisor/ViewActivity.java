@@ -27,7 +27,7 @@ public class ViewActivity extends TabActivity {
         Intent intent2;
         //Restaurants
         intent1=new Intent(this,Restaurants.class);
-        spec=mTabHost.newTabSpec("Restaurants").setIndicator("Restaurants").setContent(intent1);
+        spec=mTabHost.newTabSpec("Places to visit").setIndicator("Places to visit").setContent(intent1);
         mTabHost.addTab(spec);
         //hotels
         intent2=new Intent(this,Hotels.class);
