@@ -14,7 +14,7 @@ public class Restaurants extends Activity {
     {
         super.onCreate(savedInstanceState);
         TextView textView=new TextView(this);
-        textView.setText("Restaurants Near You ");
+        textView.setText("Places to Visit  ");
         setContentView(textView);
     }
 }
