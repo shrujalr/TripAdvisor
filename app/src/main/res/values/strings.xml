@@ -3,14 +3,6 @@
     <string name="name">Destination</string>
     <string name="submit">Submit</string>
     <string name="display">Display</string>
-    <string name="action_settings">Settings</string>
 
-    <string name="logo_desc">App logo</string>
-
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
-    <string name="amino_title">Glycine</string>
-
-    <string name="amino_content">Click on the Navigation Drawer icon on the top left to selection a menu Click on the Navigation Drawer icon on the top left to selection a menu Click on the Navigation Drawer icon on the top left to selection a menu </string>
 
 </resources>
