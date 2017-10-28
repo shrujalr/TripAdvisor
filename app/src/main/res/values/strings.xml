@@ -3,6 +3,7 @@
     <string name="name">Destination</string>
     <string name="submit">Submit</string>
     <string name="display">Display</string>
-
+    <string name="txtCredits">
+        <a href="www.google.com">Google</a></string>
 
 </resources>
