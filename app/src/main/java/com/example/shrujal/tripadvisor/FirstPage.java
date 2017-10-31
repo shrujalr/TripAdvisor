@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 public class FirstPage extends AppCompatActivity implements View.OnClickListener{
 
-    TextView t;
+        TextView t;
     TextView t1;
     Button btnSubmit;
     EditText etFName;
